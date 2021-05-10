@@ -2,3 +2,5 @@ theme: minima
 title: SciAuth
 show_excerpts: true
 github_username: SciAuth
+plugins:
+ - jekyll-feed
