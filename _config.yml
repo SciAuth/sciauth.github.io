@@ -1,2 +1,4 @@
 theme: minima
 title: SciAuth
+page.list_title: News
+github.repository_url: https://github.com/SciAuth
