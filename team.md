@@ -1,5 +1,6 @@
-SciAuth Team
-====================
+---
+title: "Project Team"
+---
 
 SciAuth is a multi-institution collaboration that includes:
 * [Morgridge Institute](https://morgridge.org/)
