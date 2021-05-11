@@ -6,4 +6,4 @@ The goal of the SciAuth project is to improve the usability and interoperability
 
 Usable mechanisms for privilege management are critical for enabling productive scientific collaborations across a diverse and distributed scientific cyberinfrastructure ecosystem. The [SciTokens](https://scitokens.org) project demonstrated that the use of JWTs with the IETF OAuth standard for privilege delegation provides a breakthrough for interoperable, least-privilege resource sharing in scientific collaborations. Now our challenge is to make that breakthrough technology usable by scientists across disciplines, project sizes, and software ecosystems by enabling coordinated deployments across cyberinfrastructures in active use today.
 
-See also: [SciAuth Team](/team) | [SciAuth GitHub](https://github.com/SciAuth)
+See also: | [SciAuth Team](/team) | [SciAuth GitHub](https://github.com/SciAuth)
