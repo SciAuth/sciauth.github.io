@@ -9,4 +9,4 @@ Usable mechanisms for privilege management are critical for enabling productive 
 Mailing List
 ------------
 
-To join the discuss@sciauth.org mailing list, send email to discuss+subscribe@sciauth.org. The [list archives](https://groups.google.com/u/1/a/sciauth.org/g/discuss) are public.
+To join the [discuss@sciauth.org](mailto:discuss@sciauth.org) mailing list, send email to [discuss+subscribe@sciauth.org](discuss+subscribe@sciauth.org). The [list archives](https://groups.google.com/u/1/a/sciauth.org/g/discuss) are public.
