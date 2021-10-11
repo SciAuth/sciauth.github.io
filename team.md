@@ -1,5 +1,5 @@
 ---
-title: "Project Team"
+title: "Team"
 ---
 
 SciAuth is a multi-institution collaboration that includes:
