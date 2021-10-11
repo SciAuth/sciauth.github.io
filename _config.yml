@@ -4,3 +4,4 @@ show_excerpts: true
 github_username: SciAuth
 plugins:
  - jekyll-feed
+ - jekyll-redirect-from
