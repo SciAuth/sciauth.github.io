@@ -2,7 +2,7 @@
 title: "Presentations"
 ---
 
-* [Bearer Token Hands-On](https://indico.fnal.gov/event/50597/contributions/225905/) (Derek Weitzel), [OSG Token Transition Workshop](https://opensciencegrid.org/events/Token-Transition-Workshop/), October 15, 2021.
+* [Token AuthZ and Validation for Site Services](https://indico.fnal.gov/event/50597/contributions/225904/) (Derek Weitzel), [OSG Token Transition Workshop](https://opensciencegrid.org/events/Token-Transition-Workshop/), October 15, 2021. [[slides](/20211015-Weitzel-OSG-Tokens.pdf)]
 * [The Future of Bearer Tokens](https://indico.fnal.gov/event/50597/contributions/225838/) (Jim Basney), [OSG Token Transition Workshop](https://opensciencegrid.org/events/Token-Transition-Workshop/), October 14, 2021. [[slides](/20211014-Basney-OSG-Tokens.pdf)]
 * SciAuth: Deploying Interoperable and Usable Authorization Tokens to Enable Scientific Collaborations (Jim Basney, Brian Bockelman, Derek Weitzel), [NSF Cybersecurity Summit](https://www.trustedci.org/2021-summit-program), October 12, 2021. [[slides](/SciAuth-2021-NSF-Cybersecurity-Summit.pdf)]
 * SciTokens and HTCondor: What they are, How to get them, How to use them (Brian Bockelman), [HTCondor Workshop Autumn 2021](https://indico.cern.ch/event/1059494/), September 21, 2021. [[slides](https://indico.cern.ch/event/1059494/contributions/4532569/)] [[video](https://videos.cern.ch/record/2781829)]
