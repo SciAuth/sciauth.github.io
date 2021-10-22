@@ -1,0 +1,12 @@
+---
+title: "RFC 9068: JSON Web Token (JWT) Profile for OAuth 2.0 Access Tokens"
+date: 2021-10-22
+---
+
+The newly published "JSON Web Token (JWT) Profile for OAuth 2.0 Access Tokens" ([RFC 9068](https://www.rfc-editor.org/rfc/rfc9068)) is a valuable standards reference
+for our use of JWTs with OAuth for interoperable, least-privilege resource access in scientific collaborations.
+RFC 9068 includes guidance about issuing the "aud", "scope", "groups", "roles", and "entitlements" claims, about using the "resource" parameter in requests, 
+and about validating tokens.
+It also addresses important security and privacy considerations.
+Work is already underway to align existing
+[SciTokens](https://scitokens.org) and [WLCG](https://github.com/WLCG-AuthZ-WG/common-jwt-profile) profiles with this new standard.
