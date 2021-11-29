@@ -16,7 +16,7 @@ WLCG Tokens
 OAuth 2.0
 ---------
 * D. Hardt. 2012. The OAuth 2.0 Authorization Framework. RFC 6749. [https://doi.org/10.17487/RFC6749](https://doi.org/10.17487/RFC6749)
-* T. Lodderstedt (Ed.), M. McGloin, and P. Hunt. 2013. OAuth 2.0 Threat Model and Security Considerations. RFC 6819. [https://doi.org/10.17487/RFC6819](https://doi.org/10.17487/RFC9068)
+* T. Lodderstedt (Ed.), M. McGloin, and P. Hunt. 2013. OAuth 2.0 Threat Model and Security Considerations. RFC 6819. [https://doi.org/10.17487/RFC6819](https://doi.org/10.17487/RFC6819)
 * M. Jones, N. Sakimura, and J. Bradley. 2018. OAuth 2.0 Authorization Server Metadata. RFC 8414. [https://doi.org/10.17487/RFC8414](https://doi.org/10.17487/RFC8414)
 * M. Jones, A. Nadalin, B. Campbell, J. Bradley, and C. Mortimore. 2020. OAuth 2.0 Token Exchange. RFC 8693. [https://doi.org/10.17487/RFC8693](https://doi.org/10.17487/RFC8693)
 * V. Bertocci. 2021. JSON Web Token (JWT) Profile for OAuth 2.0 Access Tokens. [https://doi.org/10.17487/RFC9068](https://doi.org/10.17487/RFC9068)
