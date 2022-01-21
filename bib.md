@@ -21,6 +21,8 @@ OAuth 2.0
 * M. Jones, A. Nadalin, B. Campbell, J. Bradley, and C. Mortimore. 2020. OAuth 2.0 Token Exchange. RFC 8693. [https://doi.org/10.17487/RFC8693](https://doi.org/10.17487/RFC8693)
 * V. Bertocci. 2021. JSON Web Token (JWT) Profile for OAuth 2.0 Access Tokens. [https://doi.org/10.17487/RFC9068](https://doi.org/10.17487/RFC9068)
 * T. Lodderstedt, J. Bradley, A. Labunets, and D. Fett. OAuth 2.0 Security Best Current Practice. Internet-Draft (work in progress). [https://datatracker.ietf.org/doc/draft-ietf-oauth-security-topics/](https://datatracker.ietf.org/doc/draft-ietf-oauth-security-topics/)
+* T. Lodderstedt, B. Campbell, N. Sakimura, D. Tonge, and F. Skokan. OAuth 2.0 Pushed Authorization Requests. Internet-Draft (work in progress).[https://datatracker.ietf.org/doc/html/draft-ietf-oauth-par](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-par)
+* T. Lodderstedt, J. Richer, and B. Campbell. OAuth 2.0 Rich Authorization Requests. Internet-Draft (work in progress). [https://datatracker.ietf.org/doc/html/draft-ietf-oauth-rar](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-rar)
 
 OAuth 2.1
 ---------
@@ -30,6 +32,16 @@ JWT
 ---
 * M. Jones, J. Bradley, and N. Sakimura. 2015. JSON Web Token (JWT). RFC 7519. [https://doi.org/10.17487/RFC7519](https://doi.org/10.17487/RFC7519)
 * Y. Sheffer, D. Hardt, and M. Jones. 2020. JSON Web Token Best Current Practices. RFC 8725. [https://doi.org/10.17487/RFC8725](https://doi.org/10.17487/RFC8725)
+
+GNAP
+----
+* J. Richer (Ed.), A. Parecki, and F. Imbault. Grant Negotiation and Authorization Protocol. Internet-Draft (work in progress). [https://datatracker.ietf.org/doc/html/draft-ietf-gnap-core-protocol](https://datatracker.ietf.org/doc/html/draft-ietf-gnap-core-protocol)
+* J. Richer (Ed.), A. Parecki, and F. Imbault. Grant Negotiation and Authorization Protocol Resource Server Connections. Internet-Draft (work in progress). [https://datatracker.ietf.org/doc/html/draft-ietf-gnap-resource-servers](https://datatracker.ietf.org/doc/html/draft-ietf-gnap-resource-servers)
+
+GA4GH Passports
+---------------
+* Craig Voisin, Mikael Linden, Stephanie O.M. Dyke, Sarion R. Bowers, Pinar Alper, Maxmillian P. Barkley, David Bernick, Jianpeng Chao, Mélanie Courtot, Francis Jeanson, Melissa A. Konopko, Martin Kuba, Jonathan Lawson, Jaakko Leinonen, Stephanie Li, Vivian Ota Wang, Anthony A. Philippakis, Kathy Reinold, Gregory A. Rushton, J. Dylan Spalding, Juha Törnroos, Ilya Tulchinsky, Jaime M. Guidry Auvil, Tommi H. Nyrönen. GA4GH Passport standard for digital identity and access permissions. Cell Genomics,
+Volume 1, Issue 2, 2021, 100030, ISSN 2666-979X, [https://doi.org/10.1016/j.xgen.2021.100030](https://doi.org/10.1016/j.xgen.2021.100030)
 
 OSCRP
 -----
