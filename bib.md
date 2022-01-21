@@ -41,7 +41,7 @@ GNAP
 GA4GH Passports
 ---------------
 * Craig Voisin, Mikael Linden, Stephanie O.M. Dyke, Sarion R. Bowers, Pinar Alper, Maxmillian P. Barkley, David Bernick, Jianpeng Chao, Mélanie Courtot, Francis Jeanson, Melissa A. Konopko, Martin Kuba, Jonathan Lawson, Jaakko Leinonen, Stephanie Li, Vivian Ota Wang, Anthony A. Philippakis, Kathy Reinold, Gregory A. Rushton, J. Dylan Spalding, Juha Törnroos, Ilya Tulchinsky, Jaime M. Guidry Auvil, Tommi H. Nyrönen. GA4GH Passport standard for digital identity and access permissions. Cell Genomics,
-Volume 1, Issue 2, 2021, 100030, ISSN 2666-979X, [https://doi.org/10.1016/j.xgen.2021.100030](https://doi.org/10.1016/j.xgen.2021.100030)
+Volume 1, Issue 2, 2021, 100030, ISSN 2666-979X. [https://doi.org/10.1016/j.xgen.2021.100030](https://doi.org/10.1016/j.xgen.2021.100030)
 
 OSCRP
 -----
