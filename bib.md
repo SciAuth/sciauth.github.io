@@ -19,7 +19,7 @@ OAuth 2.0
 * T. Lodderstedt (Ed.), M. McGloin, and P. Hunt. 2013. OAuth 2.0 Threat Model and Security Considerations. RFC 6819. [https://doi.org/10.17487/RFC6819](https://doi.org/10.17487/RFC6819)
 * M. Jones, N. Sakimura, and J. Bradley. 2018. OAuth 2.0 Authorization Server Metadata. RFC 8414. [https://doi.org/10.17487/RFC8414](https://doi.org/10.17487/RFC8414)
 * M. Jones, A. Nadalin, B. Campbell, J. Bradley, and C. Mortimore. 2020. OAuth 2.0 Token Exchange. RFC 8693. [https://doi.org/10.17487/RFC8693](https://doi.org/10.17487/RFC8693)
-* V. Bertocci. 2021. JSON Web Token (JWT) Profile for OAuth 2.0 Access Tokens. [https://doi.org/10.17487/RFC9068](https://doi.org/10.17487/RFC9068)
+* V. Bertocci. 2021. JSON Web Token (JWT) Profile for OAuth 2.0 Access Tokens. RFC 9068. [https://doi.org/10.17487/RFC9068](https://doi.org/10.17487/RFC9068)
 * T. Lodderstedt, J. Bradley, A. Labunets, and D. Fett. OAuth 2.0 Security Best Current Practice. Internet-Draft (work in progress). [https://datatracker.ietf.org/doc/draft-ietf-oauth-security-topics/](https://datatracker.ietf.org/doc/draft-ietf-oauth-security-topics/)
 * T. Lodderstedt, B. Campbell, N. Sakimura, D. Tonge, and F. Skokan. OAuth 2.0 Pushed Authorization Requests. Internet-Draft (work in progress).[https://datatracker.ietf.org/doc/html/draft-ietf-oauth-par](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-par)
 * T. Lodderstedt, J. Richer, and B. Campbell. OAuth 2.0 Rich Authorization Requests. Internet-Draft (work in progress). [https://datatracker.ietf.org/doc/html/draft-ietf-oauth-rar](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-rar)
