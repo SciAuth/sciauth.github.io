@@ -31,3 +31,8 @@ CILogon
 -------
 * <https://www.cilogon.org/oidc>
 * <https://www.cilogon.org/jwt>
+
+Auth0
+-----
+* <https://auth0.com/docs/secure/tokens>
+* <https://auth0.com/blog/json-web-token-signing-algorithms-overview/>
