@@ -10,7 +10,7 @@ SciTokens
 Tokens in OSG
 -------------
 * <https://opensciencegrid.org/docs/security/tokens/overview/>
-* <(https://opensciencegrid.org/docs/security/tokens/using-tokens/>
+* <https://opensciencegrid.org/docs/security/tokens/using-tokens/>
 * <https://opensciencegrid.org/technology/policy/collab-bearer-tokens/>
 * <https://opensciencegrid.org/docs/release/updating-to-osg-36/>
 
