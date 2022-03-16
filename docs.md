@@ -4,7 +4,6 @@ title: "Docs"
 
 SciTokens
 ---------
-* [https://scitokens.org/scitokens/](https://scitokens.org/scitokens/)
 * [https://github.com/scitokens/scitokens#readme](https://github.com/scitokens/scitokens#readme)
 * [https://github.com/scitokens/scitokens-cpp#readme](https://github.com/scitokens/scitokens-cpp#readme)
 
