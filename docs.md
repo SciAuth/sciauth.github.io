@@ -4,7 +4,7 @@ title: "Docs"
 
 SciTokens
 ---------
-* [https://github.com/scitokens/scitokens#readme](https://github.com/scitokens/scitokens#readme)
+* <https://github.com/scitokens/scitokens#readme>
 * [https://github.com/scitokens/scitokens-cpp#readme](https://github.com/scitokens/scitokens-cpp#readme)
 
 Tokens in OSG
