@@ -22,6 +22,7 @@ htgettoken
 HTCondor
 --------
 * <https://htcondor.readthedocs.io/en/latest/users-manual/submitting-a-job.html#jobs-that-require-credentials>
+* <https://github.com/htcondor/htcondor-ce/blob/master/tests/README.scitokens.md>
 
 INDIGO IAM
 ----------
