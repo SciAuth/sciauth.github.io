@@ -14,6 +14,14 @@ Tokens in OSG
 * <https://opensciencegrid.org/technology/policy/collab-bearer-tokens/>
 * <https://opensciencegrid.org/docs/release/updating-to-osg-36/>
 
+Tokens in LIGO
+--------------
+* <https://computing.docs.ligo.org/guide/auth/>
+
+Tokens in WLCG
+--------------
+* <https://wlcg-authz-wg.github.io/wlcg-authz-docs/>
+
 htgettoken
 ----------
 * <https://github.com/fermitools/htgettoken#readme>
