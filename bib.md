@@ -2,9 +2,13 @@
 title: "References"
 ---
 
+SciAuth
+-------
+* Brian Aydemir, Jim Basney, Brian Bockelman, Jeff Gaynor and Derek Weitzel. 2022. SciAuth: A Lightweight End-to-End Capability-Based Authorization Environment for Scientific Computing. In Practice and Experience in Advanced Research Computing (PEARC '22), July 10–14, 2022, Boston, MA, USA. ACM, New York, NY, USA.
+
 SciTokens
 ---------
-* You Alex Gao, Jim Basney, and Alex Withers. 2020. SciTokens SSH: Token-based Authentication for Remote Login to Scientific Computing Environments. In Practice and Experience in Advanced Research Computing (PEARC ’20), July 26-30, 2020, Portland, OR, USA. ACM, New York, NY, USA, 4 pages. [https://doi.org/10.1145/3311790.3399613](https://doi.org/10.1145/3311790.3399613)
+* You Alex Gao, Jim Basney, and Alex Withers. 2020. SciTokens SSH: Token-based Authentication for Remote Login to Scientific Computing Environments. In Practice and Experience in Advanced Research Computing (PEARC '20), July 26-30, 2020, Portland, OR, USA. ACM, New York, NY, USA, 4 pages. [https://doi.org/10.1145/3311790.3399613](https://doi.org/10.1145/3311790.3399613)
 * Alex Withers, Brian Bockelman, Derek Weitzel, Duncan Brown, Jason Patton, Jeff Gaynor, Jim Basney, Todd Tannenbaum, You Alex Gao, and Zach Miller. 2019. SciTokens: Demonstrating Capability-Based Access to Remote Scientific Data using HTCondor. In Practice and Experience in Advanced Research Computing (PEARC '19), July 28-August 1, 2019, Chicago, IL, USA. ACM, New York, NY, USA, 4 pages. [https://doi.org/10.1145/3332186.3333258](https://doi.org/10.1145/3332186.3333258) (preprint: [https://arxiv.org/abs/1905.09816](https://arxiv.org/abs/1905.09816))
 * Derek Weitzel, Brian Bockelman, Jim Basney, Todd Tannenbaum, Zach Miller, and Jeff Gaynor. Capability-Based Authorization for HEP. In 23rd International Conference on Computing in High Energy and Nuclear Physics (CHEP 2018), July 9-13, 2018, Sofia, Bulgaria. [https://doi.org/10.1051/epjconf/201921404014](https://doi.org/10.1051/epjconf/201921404014)
 * Alex Withers, Brian Bockelman, Derek Weitzel, Duncan A. Brown, Jeff Gaynor, Jim Basney, Todd Tannenbaum, Zach Miller, "SciTokens: Capability-Based Secure Access to Remote Scientific Data", PEARC '18: Practice and Experience in Advanced Research Computing, July 2018, Pittsburgh, PA, USA. [https://doi.org/10.1145/3219104.3219135](https://doi.org/10.1145/3219104.3219135) (preprint: [https://arxiv.org/abs/1807.04728](https://arxiv.org/abs/1807.04728))
