@@ -15,3 +15,7 @@ Mailing List
 ------------
 
 To join the [discuss@sciauth.org](mailto:discuss@sciauth.org) mailing list, send email to [discuss+subscribe@sciauth.org](discuss+subscribe@sciauth.org). The [list archives](https://groups.google.com/u/1/a/sciauth.org/g/discuss) are public.
+
+YouTube Channel
+---------------
+Please subscribe to our [YouTube channel](https://www.youtube.com/channel/UC_18wJL1qivwU67hLfDafkw) for tutorials and other project videos.
