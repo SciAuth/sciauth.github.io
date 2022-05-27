@@ -4,7 +4,7 @@ title: "References"
 
 SciAuth
 -------
-* Brian Aydemir, Jim Basney, Brian Bockelman, Jeff Gaynor and Derek Weitzel. 2022. SciAuth: A Lightweight End-to-End Capability-Based Authorization Environment for Scientific Computing. In Practice and Experience in Advanced Research Computing (PEARC '22), July 10–14, 2022, Boston, MA, USA. ACM, New York, NY, USA.
+* Brian Aydemir, Jim Basney, Brian Bockelman, Jeff Gaynor and Derek Weitzel. 2022. SciAuth: A Lightweight End-to-End Capability-Based Authorization Environment for Scientific Computing. In Practice and Experience in Advanced Research Computing (PEARC '22), July 10–14, 2022, Boston, MA, USA. ACM, New York, NY, USA. <https://doi.org/10.1145/3491418.3535160> (preprint: <https://hdl.handle.net/2142/114191>)
 
 SciTokens
 ---------
