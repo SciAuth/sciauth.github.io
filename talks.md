@@ -2,6 +2,7 @@
 title: "Presentations"
 ---
 
+* A Lightweight End-to-End Capability-Based Authorization Environment for Scientific Computing, [PEARC 22](https://pearc.acm.org/pearc22/), July 12, 2022. [[slides](/PEARC22-Aydemir-Lightweight-env.pdf)]
 * Panel: Migrating to Token-Based AuthN and AuthZ (Jim Basney), [Internet2 Techology Exchange](https://internet2.edu/2022-technology-exchange/), December 6, 2022. [[slides](/TechEx22-Tokens-Basney.pptx)]
 * [Token AuthZ and Validation for Site Services](https://indico.fnal.gov/event/50597/contributions/225904/) (Derek Weitzel), [OSG Token Transition Workshop](https://opensciencegrid.org/events/Token-Transition-Workshop/), October 15, 2021. [[slides](/20211015-Weitzel-OSG-Tokens.pdf)]
 * [The Future of Bearer Tokens](https://indico.fnal.gov/event/50597/contributions/225838/) (Jim Basney), [OSG Token Transition Workshop](https://opensciencegrid.org/events/Token-Transition-Workshop/), October 14, 2021. [[slides](/20211014-Basney-OSG-Tokens.pdf)] [[video](https://youtu.be/eDHl6RNJDjA)]
