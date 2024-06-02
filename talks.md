@@ -2,6 +2,7 @@
 title: "Presentations"
 ---
 
+* Token Taxonomy (Brian Bockelman), [European HTCondor Workshop](https://indico.cern.ch/event/1274213/contributions/5571155/), September 19, 2023. [[slides](/European-HTCondor-Workshop-2023-Token-Taxonomy.pdf)]
 * Migrating to Token-based Authorization: Experiences &amp; Lessons Learned (Jim Basney), Throughput Computing (HTC 23), July 11, 2023. [[slides](/htc23-basney.pdf)]
 * A Lightweight End-to-End Capability-Based Authorization Environment for Scientific Computing (Brian Aydemir, Jim Basney, Brian Bockelman, Jeff Gaynor, Derek Weitzel), [PEARC 22](https://pearc.acm.org/pearc22/), July 12, 2022. [[slides](/PEARC22-Aydemir-Lightweight-Env.pdf)]
 * Panel: Migrating to Token-Based AuthN and AuthZ (Jim Basney), [Internet2 Techology Exchange](https://internet2.edu/2022-technology-exchange/), December 6, 2022. [[slides](/TechEx22-Tokens-Basney.pptx)]
