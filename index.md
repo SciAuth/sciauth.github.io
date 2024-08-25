@@ -11,8 +11,8 @@ Demo
 
 Try our Jupyter Notebooks that demonstrate basic usage of SciTokens:
 
-- Python: [https://sciauth.org/notebook-demo](https://sciauth.org/notebook-demo)
-- C/C++: [https://sciauth.org/cpp-notebook](https://sciauth.org/cpp-notebook)
+- Python: [Notebook](https://sciauth.org/notebook-demo) [Repo](https://github.com/SciAuth/scitoken-demo)
+- C/C++: [Notebook](https://sciauth.org/cpp-notebook) [Repo](https://github.com/SciAuth/SciTokens-cpp-Notebook)
 
 Mailing List
 ------------
