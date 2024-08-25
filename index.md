@@ -9,7 +9,10 @@ Usable mechanisms for privilege management are critical for enabling productive 
 Demo
 ----
 
-Try our Jupyter Notebook that demonstrates basic usage of SciTokens: [https://sciauth.org/notebook-demo](https://sciauth.org/notebook-demo)
+Try our Jupyter Notebooks that demonstrate basic usage of SciTokens:
+
+- Python: [https://sciauth.org/notebook-demo](https://sciauth.org/notebook-demo)
+- C/C++: [https://sciauth.org/cpp-notebook](https://sciauth.org/cpp-notebook)
 
 Mailing List
 ------------
