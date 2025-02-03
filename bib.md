@@ -25,7 +25,7 @@ OAuth 2.0
 * M. Jones, N. Sakimura, and J. Bradley. 2018. OAuth 2.0 Authorization Server Metadata. RFC 8414. [https://doi.org/10.17487/RFC8414](https://doi.org/10.17487/RFC8414)
 * M. Jones, A. Nadalin, B. Campbell, J. Bradley, and C. Mortimore. 2020. OAuth 2.0 Token Exchange. RFC 8693. [https://doi.org/10.17487/RFC8693](https://doi.org/10.17487/RFC8693)
 * V. Bertocci. 2021. JSON Web Token (JWT) Profile for OAuth 2.0 Access Tokens. RFC 9068. [https://doi.org/10.17487/RFC9068](https://doi.org/10.17487/RFC9068)
-* T. Lodderstedt, J. Bradley, A. Labunets, and D. Fett. OAuth 2.0 Security Best Current Practice. Internet-Draft (work in progress). [https://datatracker.ietf.org/doc/draft-ietf-oauth-security-topics/](https://datatracker.ietf.org/doc/draft-ietf-oauth-security-topics/)
+* T. Lodderstedt, J. Bradley, A. Labunets, and D. Fett. Best Current Practice for OAuth 2.0 Security. RFC 9700. [https://doi.org/10.17487/RFC9700](https://doi.org/10.17487/RFC9700)
 * T. Lodderstedt, B. Campbell, N. Sakimura, D. Tonge, and F. Skokan. OAuth 2.0 Pushed Authorization Requests. RFC 9126. [https://doi.org/10.17487/RFC9126](https://doi.org/10.17487/RFC9126)
 * T. Lodderstedt, J. Richer, and B. Campbell. OAuth 2.0 Rich Authorization Requests. RFC 9396. [https://doi.org/10.17487/RFC9396](https://doi.org/10.17487/RFC9396)
 
