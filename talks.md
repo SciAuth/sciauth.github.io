@@ -2,6 +2,7 @@
 title: "Presentations"
 ---
 
+* JSON Web Tokens for Science (Jim Basney), DOE IRI TRUSTID Technical Subcommittee, April 29, 2025. 
 * JSON Web Tokens for Science (Jim Basney, Derek Weitzel), [Trusted CI Webinar](https://www.trustedci.org/webinars), August 26, 2024. [[slides](https://hdl.handle.net/2142/124057)] [[video](https://youtu.be/9DOIIjwVLSA)]
 * Token Taxonomy (Brian Bockelman), [European HTCondor Workshop](https://indico.cern.ch/event/1274213/contributions/5571155/), September 19, 2023. [[slides](/European-HTCondor-Workshop-2023-Token-Taxonomy.pdf)]
 * Migrating to Token-based Authorization: Experiences &amp; Lessons Learned (Jim Basney), Throughput Computing (HTC 23), July 11, 2023. [[slides](/htc23-basney.pdf)]
